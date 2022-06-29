@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="SmartTheme.TextViewSmallBold">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="SmartTheme">
+        <item name="android:fontFamily"></item>
+    </style>
+</resources>
